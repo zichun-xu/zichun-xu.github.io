@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zichun (Dwight) Xu"
   avatar           : "profile.png"
-  bio              : "PhD student in biostatistics at UW"
+  bio              : "PhD student in biostatistics at the University of Washington"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pDgcAbUAAAAJ&hl=en"
   email            : "zx87@uw.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
