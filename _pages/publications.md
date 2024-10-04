@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Preprints
-* Ronan Perry*, <b>Zichun Xu</b>, Olivia McGough*, Mcand Daniela Witten (2024). "Infer-and-widen versus split-and-condition: two tales of selective inference." <i>Under review.</i> <a href = "https://arxiv.org/abs/2408.06323">[preprint]</a>
+* Ronan Perry*, <b>Zichun Xu*</b>, Olivia McGough*, Mcand Daniela Witten (2024). "Infer-and-widen versus split-and-condition: two tales of selective inference." <i>Under review.</i> <a href = "https://arxiv.org/abs/2408.06323">[preprint]</a>
 
 ### Publications
 * Chang, Su, <b>Zichun Xu</b>, Xinning Shan, Biao Cai, Hongyu Zhao, and Jingfei Zhang. "Cell-type-specific co-expression inference from single cell RNA-sequencing data." <i>Nature Communications (2023).</i> <a href = "https://www.nature.com/articles/s41467-023-40503-7">[paper]</a>
