@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+*: co-first authors.
+
 Preprints
 ======
 Ronan Perry*, <b>Zichun Xu*</b>, Olivia McGough*, and Daniela Witten (2024). "Infer-and-widen versus split-and-condition: two tales of selective inference." <i>Under review.</i> <a href = "https://arxiv.org/abs/2408.06323">[preprint]</a>
