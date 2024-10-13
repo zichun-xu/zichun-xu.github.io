@@ -9,5 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-### As Teaching Assistant at University of Washington
-*BIOST 570 - Advanced Regression Methods for Independent Data (Fall 2024)
+### Teaching
+#### As Teaching Assistant at University of Washington
+* BIOST 570 - Advanced Regression Methods for Independent Data (Fall 2024)
+
+### Service
+#### As Reviewer
+* Journal of the Royal Statistical Society, Series B (Statistical Methodology)
