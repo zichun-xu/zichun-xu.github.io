@@ -17,6 +17,6 @@ I am a second-year PhD student in the Department of Biostatistics at the Univers
 * Statistical applications in genetics and genomics
 
 ### Education
-* Ph.D in Biostatistics, University of Washington, 2028 (expected)
+* Ph.D in Biostatistics, University of Washington, 2027 (expected)
 * M.S. in Biostatistics, Yale University, 2023
 * B.S. in Biotechnology, Fudan University, 2021
