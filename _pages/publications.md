@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Preprints
-- <b>Zichun Xu</b>, Ali Shojaie, Daniela Witten (2024). "A unified framework for semiparametrically efficient semi-supervised learning." <i> Manuscript in progress. </i>
+- <b>Zichun Xu</b>, Daniela Witten, Ali Shojaie (2024). "A unified framework for semiparametrically efficient semi-supervised learning." <i> Under review.</i> <a href = "https://arxiv.org/abs/2502.17741">[preprint]</a> <i> (Student Paper Award at JSM Nonparametric Statistics Section, 2025) </i>
 
 - Ronan Perry\*, <b>Zichun Xu\*</b>, Olivia McGough\*, Daniela Witten (2024). "Infer-and-widen versus split-and-condition: two tales of selective inference." <i>Under review.</i> <a href = "https://arxiv.org/abs/2408.06323">[preprint]</a>
 
