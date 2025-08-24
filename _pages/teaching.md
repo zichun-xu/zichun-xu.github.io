@@ -18,3 +18,4 @@ redirect_from:
 ### Service
 #### As Reviewer
 - Journal of the Royal Statistical Society, Series B (Statistical Methodology)
+- Statistical Science
