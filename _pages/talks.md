@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+- Joint Statistical Meetings, Boston, 2026 [[slides](https://drive.google.com/drive/folders/1Cl8iKLj3mZU9tdBoj3xmHlard30lB5Eh)]
 - Joint Statistical Meetings, Nashville, 2025 [[slides](https://docs.google.com/presentation/d/1rz0C0De12UcDue90nIVMj6DBu6-sOB_MbcG-WO675rY/edit?slide=id.g372b8f6653e_0_0#slide=id.g372b8f6653e_0_0)]
 - TGIF reading group, University of Washington, 2025
 - Causal inference reading group, University of Washington, 2025
